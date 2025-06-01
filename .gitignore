@@ -1,0 +1,26 @@
+# Node & React
+client/node_modules/
+client/dist/
+client/.env
+client/.DS_Store
+
+# Python & Flask
+server/__pycache__/
+server/*.pyc
+server/env/
+server/.env
+server/model/model.pkl
+
+# General
+.env
+*.log
+*.pyc
+__pycache__/
+*.sqlite3
+*.db
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
